@@ -1,0 +1,5 @@
+# Web page classification using GPText and MADlib on Greenplum database
+
+## Data preprocessing using GPText
+## SVM classifier modeling using MADlib
+## Used Jupyter Notebook IDE with Python, sql_magic
